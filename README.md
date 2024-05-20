@@ -1,5 +1,5 @@
 # CodeCraftHub
-AI software engineering project
+Create a personalized online learning platform
 
 ## Objectives
 
